@@ -1,0 +1,11 @@
+{
+  "org": "PennyLaneAI",
+  "repo": "plugin-test-matrix",
+  "versions": [
+    {
+      "commit": "9185332f5ccdc7c7a693bd27231d3b3f0bb18007",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:49:13.959280+00:00"
+    }
+  ]
+}
